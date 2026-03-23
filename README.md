@@ -1,7 +1,7 @@
 # あntLAU ⚒
 ### Minecraft Launcher — Beta Privada v0.4.5
 
-> Un launcher de Minecraft hecho a mano en Venezuela con amor, rabia y demasiado café.
+> Un launcher de Minecraft hecho a mano en Venezuela con amor, arrechera y demasiada agua.
 > Funciona. No te preguntes cómo. No lo toques.
 
 ---
@@ -10,7 +10,7 @@
 
 **あntLAU** es un launcher personalizado para Minecraft Forge construido con Electron + Node.js, pensado para servidores privados cracked. Sin Mojang. Sin login. Sin que te pregunten nada.
 
-Actualmente soporta **Forge 1.20.1** de forma estable. Las otras versiones están en proceso — tranquilo que ya van.
+Actualmente soporta **Forge 1.20.1** de forma estable. Las otras versiones están en proceso — tranquilo que ya vienen niño.
 
 ---
 
@@ -31,9 +31,7 @@ Actualmente soporta **Forge 1.20.1** de forma estable. Las otras versiones está
 
 ## Requisitos
 
-- Windows 10/11 x64
-- Java 17+ (se auto-detecta, pero si no lo tienes, instálalo pues)
-- Minecraft Forge 1.20.1 ya instalado en tu carpeta mcdata
+- Tener PC
 
 ---
 
@@ -42,23 +40,9 @@ Actualmente soporta **Forge 1.20.1** de forma estable. Las otras versiones está
 ### Opción A — Ejecutable (recomendado)
 Descarga el instalador desde [Releases](../../releases) y ejecútalo. Listo. No hay paso 2.
 
-### Opción B — Desde el código fuente
-```bash
-git clone https://github.com/TU_USUARIO/antlau.git
-cd antlau
-npm install
-npm start
-```
-
-### Compilar `.exe`
-```bash
-npm run build
-```
-El resultado queda en `dist/antLAU Setup 0.4.5.exe`
-
 ---
 
-## Modo Admin
+## Modo Administrador
 
 Dentro del launcher, ve a **Logs → Launcher** y escribe en la consola:
 
@@ -102,13 +86,13 @@ Se desbloquea el servidor local y las herramientas de diagnóstico. Escribe `.he
 
 - [Electron](https://electronjs.org) 28
 - Node.js 22
-- HTML/CSS/JS vanilla — sin frameworks, porque aquí somos así de tercos
+- HTML/CSS/JS vanilla — sin frameworks, porque aquí somos arrechisimos.
 
 ---
 
 ## Licencia
 
-**Copyright © 2025 AntLGあ — Todos los derechos reservados.**
+**Copyright © 2025 AntLGあ — Todos los derechos reservados. Mojang no me denuncies**
 
 Consulta el archivo [LICENSE](LICENSE) para los términos completos.
 
