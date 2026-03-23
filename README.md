@@ -110,10 +110,6 @@ Se desbloquea el servidor local y las herramientas de diagnóstico. Escribe `.he
 
 **Copyright © 2025 AntLGあ — Todos los derechos reservados.**
 
-Este proyecto está bajo licencia propietaria. Puedes usar el software para uso personal. No puedes redistribuirlo, modificarlo, venderlo ni hacerle fork sin permiso explícito del autor.
-
-Sí, lo puedes descompilar. Lo sabemos. Pero si lo haces y lo publicas como tuyo, que te vaya bien con eso.
-
 Consulta el archivo [LICENSE](LICENSE) para los términos completos.
 
 ---
